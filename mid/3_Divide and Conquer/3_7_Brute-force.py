@@ -16,18 +16,18 @@ bit_str([])
 ''' DFS(Deapth Fast Search)
 
 🎯 Level 0:
-ans = []   → append `'a'` → `['a']`  
+ans = []   → append 'a' → ['a']  
 
 🎯 Level 1:
-ans = ['a']  → append `'a'` → `['a', 'a']`  
+ans = ['a']  → append 'a' → ['a', 'a']  
 
 🎯 Level 2:
 ans = ['a', 'a']  
-  → append `'a'` → `['a', 'a', 'a']`  
+  → append 'a' → ['a', 'a', 'a'] 
   ✅ 출력: `a a a`  
-  → pop() → `['a', 'a']`
+  → pop() → ['a', 'a']
 
-  → append `'b'` → `['a', 'a', 'b']`  
+  → append 'b' → ['a', 'a', 'b']  
   ✅ 출력: `a a b`  
   → pop() → `['a', 'a']`
 

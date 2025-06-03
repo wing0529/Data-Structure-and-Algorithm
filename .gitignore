@@ -1,5 +1,8 @@
 3.HW1/자료구조와 알고리즘_HW1_2021706066김나래.pdf
 3.HW1/hw1.pdf
 
-#git rm --cached 3.HW1/자료구조와알고리즘_HW1_2021706066김나래.pdf
+
+# 사이트에 올라간 파일 지우고, 로컬에는 남기고 싶을 때
+# git rm --cached 3.HW1/자료구조와알고리즘_HW1_2021706066김나래.pdf
 # git rm --cached 3.HW1/hw1.pdf
+
